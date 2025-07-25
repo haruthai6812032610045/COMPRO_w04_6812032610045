@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "s4_w5"
+		},
+		{
+			"path": "S4_w04"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"CODING_W04.4.2.C": "cpp",
+			"coding_W04.5.2.C": "cpp",
+			"coding_W05.04.C": "cpp"
+		}
+	}
+}
